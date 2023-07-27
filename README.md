@@ -3,7 +3,7 @@
 ## Project description 
 The primary objective of this project is to streamline the existing building energy modelling techniques that are used within the Measurement and Verification (M&V) principle. Energy signatures and outdoor air temperatures are regressed to create 3 Parameter Heating (3PH) models. 
 The algorithm used is able to:
-- Identify and create seperate energy models for each building in a dataset.
+- Identify and create seperate energy models for each building in a large dataset.
 - Automatically select the best balance point temperature for each.
 - Can introduce splitting points to assess different time periods seperately.
 
